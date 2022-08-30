@@ -1,6 +1,5 @@
-https://pbs.twimg.com/profile_banners/1422614424980885507/1652031058/1080x360
 ### 👋, This is Shaykot Hossain Selim
-####  Mern Stack Developer
+####  Frontend Developer 
 
 I have experience in Javascript, MongoDB, Express Js, React Js, and Node Js, as well as other languages. Keeping my code maintainable, testable, and clean is important to me. I am very flexible, and quick to learn, and I am always open to learning new technologies. I hope to utilize my knowledge, skills, dedication, and effort to help the organization meet and achieve its goals.
 
