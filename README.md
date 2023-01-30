@@ -13,7 +13,8 @@ Skills: Mongo DB || Express JS || React JS || Node JS
 - 📫 How to reach me: linkedin 
 - 😄 Pronouns: shaykotselim 
 - ⚡ Fun fact: playing badminton & chess 
-
+- 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shaykotselim) 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shaykotselim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/shaykotselim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shaykotselim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/md.shaykot.336)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/shaykotselim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/shaykotselim)  
 
@@ -25,7 +26,7 @@ Skills: Mongo DB || Express JS || React JS || Node JS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shaykotselim&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=shaykotselim)  
+ 
 
 ![GitHub metrics](https://metrics.lecoq.io/shaykotselim)  
 
